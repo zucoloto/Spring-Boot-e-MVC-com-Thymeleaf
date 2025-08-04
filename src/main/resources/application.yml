@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Recursos-Humanos
+
+logging:
+  level:
+    root: WARN
+    org.springframework.web: INFO
+    org.hibernate: ERROR
+    br.com.zuco: DEBUG
